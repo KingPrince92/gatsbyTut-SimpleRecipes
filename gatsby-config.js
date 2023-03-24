@@ -53,5 +53,13 @@ module.exports = {
 				accessToken: process.env.CONTENTFUL_API_KEY,
 			},
 		},
+		{
+			resolve: "gatsby-plugin-web-font-loader",
+			options: {
+				google: {
+					families: ["Montserrat", "Inconsolata"],
+				},
+			},
+		},
 	],
 };

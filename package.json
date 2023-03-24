@@ -18,6 +18,7 @@
     "gatsby-plugin-image": "^3.7.0",
     "gatsby-plugin-sharp": "^5.7.0",
     "gatsby-plugin-styled-components": "^6.7.0",
+    "gatsby-plugin-web-font-loader": "^1.0.4",
     "gatsby-source-contentful": "^8.7.0",
     "gatsby-source-filesystem": "^5.7.0",
     "gatsby-transformer-sharp": "^5.7.0",
